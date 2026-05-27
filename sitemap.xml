@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://shikshaeducationhub.com/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://shikshaeducationhub.com/img/logo.jpeg</image:loc>
+      <image:title>Shiksha Education Hub logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://shikshaeducationhub.com/img/Herosection.jpeg</image:loc>
+      <image:title>BBS 4th Year Report Support in Nepal</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://shikshaeducationhub.com/img/aboutus.png</image:loc>
+      <image:title>About Shiksha Education Hub</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://shikshaeducationhub.com/img/bg-image.jpg</image:loc>
+      <image:title>Shiksha Education Hub background image</image:title>
+    </image:image>
+  </url>
+</urlset>
